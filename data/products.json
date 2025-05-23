@@ -1,0 +1,252 @@
+{
+    "categories":[
+        {
+            "category_id": 1,
+            "category_name": "Recommended",
+            "description": "Category containing all of the recommended products."
+        },
+        {
+            "category_id": 2,
+            "category_name": "Computer Parts",
+            "description": "Category containing all of the computer parts."
+        },
+        {
+            "category_id": 3,
+            "category_name": "Deals",
+            "description": "Category containing only the products with special deals."
+        },
+        {
+            "category_id": 4,
+            "category_name": "Laptops",
+            "description": "Category containing all of the laptops."
+        },
+        {
+            "category_id": 5,
+            "category_name": "Desktops",
+            "description": "Category containing all of the desktops."
+        }
+    ],
+    
+    "products":[
+        {
+            "item_id": 1,
+            "category_id": 1,
+            "item_title": "Acer Nitro 24.5 Gaming Monitor",
+            "description":"Premium Visual Quality - The Acer Nitro 24.5 Gaming Monitor offers a 1920x1080 Full HD resolution, delivering crisp and true-to-life colors. With a 100Hz refresh rate and AMD FreeSync Premium technology, experience smooth and vibrant visuals, ideal for intense gaming and dynamic multimedia.",
+            "brand":"Acer",
+            "unit_price": 149.99,
+            "quantity_in_stock": 25,
+            "make":"Nitro 24.5",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/71oG454kpEL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 2,
+            "category_id": 1,
+            "item_title": "Logitech G432 Wired Gaming Headset",
+            "description":"Hear Enemies From All Sides: DTS Headphone:X 2.0 surround sound(1) lets you hear enemies sneaking behind you, special ability cues, and immersive environments. It's positional clarity that can make the difference between victory and defeat. Experience three-dimensional audio that goes beyond 7.1 channels to make you feel like you're right in the middle of the action. (1) DTS Headphone:X 2.0 requires Logitech G HUB Software.",
+            "brand":"Logitech",
+            "unit_price": 69.98,
+            "quantity_in_stock": 25,
+            "make":"G432",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61j6ey6mBpL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 3,
+            "category_id": 1,
+            "item_title": "Logitech G502 HERO High Performance Wired Gaming Mouse",
+            "description":"High performance HERO 16K Sensor: Logitech's most accurate sensor yet with up to 16,000 DPI for the ultimate in gaming speed, accuracy and responsiveness across entire DPI range",
+            "brand":"Logitech",
+            "unit_price": 74.99,
+            "quantity_in_stock": 25,
+            "make":"G502",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 4,
+            "category_id": 1,
+            "item_title": "ASUS ROG Ally 7 120Hz Gaming Handheld",
+            "description":"AMD Ryzen Z1 Extreme Processor (Zen4 architecture with 4nm process, 8-core /16-threads, 24MB total cache, up to 5.10 Ghz boost)",
+            "brand":"ASUS",
+            "unit_price": 899.95,
+            "quantity_in_stock": 25,
+            "make":"ROG Ally 7",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/71MUfCIyAWL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 5,
+            "category_id": 2,
+            "item_title": "NVIDIA GeForce RTX 3090",
+            "description":"The NVIDIA GeForce RTX 3090 is a high-end graphics card powered by NVIDIA's Ampere architecture, designed for both gaming and creative applications",
+            "brand":"NVIDIA",
+            "unit_price": 1499.99,
+            "quantity_in_stock": 25,
+            "make":"RTX 3090",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61wx-RzpxLL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 6,
+            "category_id": 2,
+            "item_title": "ASUS Prime B550M-A WiFi II AMD AM4 (3rd Gen Ryzen) Micro ATX Motherboard",
+            "description":"AMD AM4 Socket and PCIe 4.0: The perfect pairing for 3rd Gen AMD Ryzen CPUs",
+            "brand":"Asus",
+            "unit_price": 139.99,
+            "quantity_in_stock": 25,
+            "make":"Prime B550M-A",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/51ZUnFrLVVL._AC_SX425_.jpg "
+        },
+        {
+            "item_id": 7,
+            "category_id": 2,
+            "item_title": "CORSAIR Vengeance LPX 64GB",
+            "description":"Performance and compatibility. Performance Profile is XMP 2.0. Package Memory Pin: 288",
+            "brand":"Corsair",
+            "unit_price": 129.99,
+            "quantity_in_stock": 25,
+            "make":"Vengeance LPX 64GB",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/51gLnYN1W7L._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 8,
+            "category_id": 2,
+            "item_title": "AMD Ryzen 7 7800X3D 8-Core, 16-Thread Desktop Processor",
+            "description":"AMD Ryzen 7 7800X3D 8-Core, 16-Thread Desktop Processor",
+            "brand":"AMD",
+            "unit_price": 549.98,
+            "quantity_in_stock": 25,
+            "make":"Ryzen 7 7800X3D 8-Core",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/51HqC0rU9HL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 9,
+            "category_id": 3,
+            "item_title": "SteelSeries Apex 3 RGB Gaming Keyboard",
+            "description":"10-Zone RGB Illumination - Gorgeous color schemes and reactive effects; OS Compatibility: Windows, Mac OS X, Xbox, and PS4. USB port required2",
+            "brand":"SteelSeries",
+            "unit_price": 65.56,
+            "quantity_in_stock": 25,
+            "make":"Apex 3",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61is2ZwnHEL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 10,
+            "category_id": 3,
+            "item_title": "Logitech G213 Prodigy Gaming Keyboard",
+            "description":"Brilliant color spectrum illumination - personalize five individual lighting zones from a spectrum of over 16.8 million colors. Change colors to match your setup, specific games, or to showcase your favorite colors. Synchronize lighting effects with other Logitech G devices using Logitech gaming software. Low light leak around each keycap means less more light comes through the lettering – and less leaks around the keycaps. This helps make the illumination of each key more brilliant, making it easier to find your keys in the dark",
+            "brand":"Logitech",
+            "unit_price": 69.99,
+            "quantity_in_stock": 25,
+            "make":"G213",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/71y+Sl+qWwL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 11,
+            "category_id": 3,
+            "item_title": "Sony WH-1000XM4",
+            "description":"Industry-leading noise canceling with Dual Noise Sensor technology",
+            "brand":"Sony",
+            "unit_price": 328.00,
+            "quantity_in_stock": 25,
+            "make":"WH-1000XM4",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61oqO1AMbdL._AC_SY450_.jpg"
+        },
+        {
+            "item_id": 12,
+            "category_id": 3,
+            "item_title": "Logitech G203 2nd Gen Wired Gaming Mouse",
+            "description":"8, 000 DPI gaming-grade sensor responds precisely to movements. Customize your sensitivity settings to suit the sensitivity you like with Logitech G HUB gaming software and cycle easily through up to 5 DPI settings. Resolution 200 - 8,000 DPI",
+            "brand":"Logitech G",
+            "unit_price": 39.99,
+            "quantity_in_stock": 25,
+            "make":"G203",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61UxfXTUyvL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 13,
+            "category_id": 4,
+            "item_title": "Apple 2025 MacBook Air 13-inch M4",
+            "description":"MacBook Air with the M4 chip lets you blaze through work and play. With Apple Intelligence,* up to 18 hours of battery life* and an incredibly portable design, you can take on anything, anywhere.",
+            "brand":"Apple",
+            "unit_price": 1699.00,
+            "quantity_in_stock": 25,
+            "make":"M4",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/71ZdDLeldzL._AC_SX522_.jpg"
+        },
+        {
+            "item_id": 14,
+            "category_id": 4,
+            "item_title": "Acer Aspire 3 A315-24P-R7VH",
+            "description":"Purposeful Design. Travel with ease and look great doing it with the Aspire 3 thin, light design. The Aspire 3 is lighter and thinner than ever before at 3.92 pounds and 0.74 inches. Your device stays at your side all day with up to 11 hours of battery life.",
+            "brand":"Acer",
+            "unit_price": 529.99,
+            "quantity_in_stock": 25,
+            "make":"Aspire 3",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61gKkYQn6lL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 15,
+            "category_id": 4,
+            "item_title": "Acer Aspire Lite AL15-41P-R64M-CA",
+            "description":"Powered by up to AMD Ryzen 7 5700U Octa-core processor, 16GB DDR4 memory and 512GB PCIe NVMe SSD, the Aspire Lite 15 delivers smooth performance for everyday use. Whether you're checking email, editing documents, or catching up on your favorite shows, Aspire Lite 15 handles it all with ease.",
+            "brand":"Acer",
+            "unit_price": 749.99,
+            "quantity_in_stock": 25,
+            "make":"AL15-41P-R64M-CA",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/71njYY7GG2L._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 16,
+            "category_id": 4,
+            "item_title": "Acer Aspire Go 15 AG15-31P-31C1-CA",
+            "description":"Clarity and Comfort: With its narrow bezel design the 15.6 1080p Full HD display is perfect for casual web browsing and watching movies or streaming, allowing for a sharp, detailed view of what's in front of you. And with Acer BluelightShield, lower the levels of blue light to lessen the negative effects of blue light exposure.",
+            "brand":"Acer",
+            "unit_price": 496.80,
+            "quantity_in_stock": 25,
+            "make":"NX.KRRAA.002",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/71ite6sg+aL._AC_SX679_.jpg"
+        },
+        {
+            "item_id": 17,
+            "category_id": 5,
+            "item_title": "Dell Optiplex 7010 Desktop Computer",
+            "description":"POWERFUL PROCESSOR - Configured with Intel's top of the line Core i7 series processor so you can expect lightning fast, reliable and consistent performance for an exceptional PC experience.",
+            "brand":"Dell",
+            "unit_price": 234.99,
+            "quantity_in_stock": 25,
+            "make":"Optiplex 7010",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61Y5+AI624L._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 18,
+            "category_id": 5,
+            "item_title": "Dell OptiPlex 7070 SFF Desktop Computer PC",
+            "description":"Powerful 8th Gen Processor - The Dell OptiPlex 7070 desktop computer driven by the Intel 6 Core 8th generation i5-8500 processor up to 4.10 Ghz for efficient multitasking.",
+            "brand":"Dell",
+            "unit_price": 399.99,
+            "quantity_in_stock": 25,
+            "make":"OptiPlex 7070 SFF",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61GGkjt2U+L._AC_SY550_.jpg"
+        },
+        {
+            "item_id": 19,
+            "category_id": 5,
+            "item_title": "HP ProDesk 400 G5 SFF High Performance Desktop PC",
+            "description":"Pre-installed Windows 11 Pro operating system features an easy user interface, advanced apps and enhanced security.",
+            "brand":"HP",
+            "unit_price": 199.00,
+            "quantity_in_stock": 25,
+            "make":"ProDesk 400 G5 SFF",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/51Ntx7Zz6DL._AC_SX425_.jpg"
+        },
+        {
+            "item_id": 20,
+            "category_id": 5,
+            "item_title": "Lenovo ThinkCentre M920x Micro Mini PC Computer",
+            "description":"POWERFUL PROCESSOR: Hexa Core Processor i7 Processor Up to 4.60GHz so you can expect fast, reliable and consistent performance for an amazing PC experience.",
+            "brand":"Lenovo",
+            "unit_price": 619.99,
+            "quantity_in_stock": 25,
+            "make":"M920x",
+            "thumbnail_image":"https://m.media-amazon.com/images/I/61IV4lY+JpL._AC_SX425_.jpg"
+        }
+    ]
+}
